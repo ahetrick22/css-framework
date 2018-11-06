@@ -20,7 +20,7 @@ A couple of examples:
     </div>
     
 
-This framework also has navbar classes built in for a navbar fixed to the top of the page. There are two style options: light (".nav-light") and dark(".nav-dark"). These classes should be applied to a nav element. Links should be built inside the navbar as <a> elements, and an option is available to make the selected link active ("nav-active").
+This framework also has navbar classes built in for a navbar fixed to the top of the page. There are two style options: light (".nav-light") and dark(".nav-dark"). These classes should be applied to a "nav" element. Links should be built inside the navbar as "a" elements, and an option is available to make the selected link active ("nav-active").
 
 An example: 
 
